@@ -15,3 +15,7 @@ Sample website with plenty of files for demos# Starter Web Project
 There is another update required on this file
 
 This can be used any web projects were pushing the file to any server is very easy
+
+####Copyright
+
+2017 Git training
