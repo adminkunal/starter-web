@@ -16,6 +16,10 @@ There is another update required on this file
 
 This can be used any web projects were pushing the file to any server is very easy
 
+####How to contribute
+
+Please for this repository and then issue pull requests for the review.
+
 ####Copyright
 
 2017 Git training
