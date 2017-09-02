@@ -2,7 +2,7 @@
 
 # Deployment
 
-This is a simple website project how to use Git and Github together
+This is a simple website project how to use Git and Github together. Adding a line for another example.
 
 This repository is for showing how Git and GitHub work
 
