@@ -3,16 +3,19 @@
 
 # TEAM
 
-    Kunal Mattoo kunalmattoo
+	Kunal Mattoo kunalmattoo
 
 # THANKS
 
-    All those who helped me reached here.
+	All those who helped me reached here.
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+	HTML5, CSS3
+	jQuery, Modernizr
+
+#Team A
+	A is working on 2 files for Login and Security
 
 # This change is under Master for Oct 2017
 
