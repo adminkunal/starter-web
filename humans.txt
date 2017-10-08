@@ -13,9 +13,12 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-<<<<<<< HEAD
+
 # This change is under Master for Oct 2017
-=======
+
 # Change in OCT 2017
 Kunal Mattoo
->>>>>>> SimpleChange_2017
+SimpleChange_2017
+
+# Team Master
+Team Master is working on Architecture of the application
